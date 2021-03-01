@@ -18,21 +18,3 @@ function App() {
 }
 export default App;
 
-
-
-/*function App() {
-  return (
-    <Router>
-      <div>
-        <NavBar />
-        <div class="">
-          <Route exact path= {["/", "/about", "/react_portfolio"]} component={HomePage} />
-          <Route exact path="/ProjectPage"  component={ProjectPage} />
-          <Route exact path="/ContactPage"  component={ContactPage} />
-        </div>
-      </div>
-    </Router>
-  );
-}
-
-export default App;*/
