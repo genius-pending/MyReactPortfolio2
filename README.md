@@ -27,3 +27,10 @@ I contributed to this with help from react documentation.
 no questions.
 ## genius-pending | shivey_khangura@hotmail.com
 ## ![img](https://avatars.githubusercontent.com/u/67982777?v=4)
+
+![readmeshot1](https://user-images.githubusercontent.com/67982777/109696290-cec74f00-7b84-11eb-8b2b-d95dd0863156.png)
+
+![readmeshot2](https://user-images.githubusercontent.com/67982777/109696304-d1c23f80-7b84-11eb-9d31-ed5bff0188a2.png)
+
+![readmeshot3](https://user-images.githubusercontent.com/67982777/109696317-d4249980-7b84-11eb-82a5-2b6f2f76c34c.png)
+
