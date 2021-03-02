@@ -12,7 +12,7 @@
 6. Contributors
 7. Questions
 ## Description
-This project was created to help me get a better understanding of react. I used react to reimagine my previous static portfolio and create a more dynamic one implementing react-routing. 
+This project was created to help me get a better understanding of react. I used react to reimagine my previous static portfolio and create a more dynamic one implementing react-routing. please click https://genius-pending.github.io/MyReactPortfolio2/ to view my portfolio.
 ## Installation
 you can click on the deployed GH pages link or download the repo and run npm install then run npm start in your VS code.
 ## Usage
